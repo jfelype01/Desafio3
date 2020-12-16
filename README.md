@@ -1,5 +1,5 @@
 # Do While 2020 Desafio 
-Estou disponibilizando o código que eu escrevi hoje para o desafio 3 do DoWhile 2020, eu tive pouco tempo para faze-lo, cerca de 40 minutos, mas eu dei o meu melhor para montar um código decente.
+<h3>Estou disponibilizando o código que eu escrevi hoje para o desafio 3 do DoWhile 2020, eu tive pouco tempo para faze-lo, cerca de 40 minutos, mas eu dei o meu melhor para montar um código decente.</h3>
 
 ## Tecnologias usadas
 <h3>TailwindCSS</h3>
